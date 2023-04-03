@@ -37,7 +37,7 @@
 Ahora con esto en cuenta, ahora si podemos comenzar a modificar estos valores, lo voy a explicar con un ejemplo:
 Si yo quiero tener este color del relleno, primero debo de con ayuda de alguna pagina o software, checar sus componentes RGB (Yo estoy usando paint)
 
-![color](https://prnt.sc/lD8PpBhS-CHd)
+![color](https://imgur.com/N7qgrkB)
 Ahora debo de hacer un calculo para saber que número colocar dentro de cada valor del vec4:
 ```
 Valor que debemos de poner = Componente / 255
@@ -51,6 +51,7 @@ Tercer valor (azul): 39 / 255 = 0.1529
 Y para el cuarto valor por lo general no necesitamos hacer calculos, solo saber que 0 es totalmente transparente e 1 es sin transparencia, ya podemos nosotros jugar con este valor.
 
 Y listo, ahora si basta con reemplazar estos valores en el vec4 de la línea 57:
-![vec4mod](https://prnt.sc/1aucd0lKkfMk)
 
-###Textura de los corazones
+![vec4mod](https://imgur.com/Pq2OvsS)
+
+### Textura de los corazones
