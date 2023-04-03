@@ -9,4 +9,4 @@
 
 ### Variante normal
  Lo puedes descargar de [***aquí***](https://github.com/Julioxidop/Corazones-y-XP-Centrados/releases/tag/normal)
- !(https://i.imgur.com/NL4oUN4.png "normal")
+ [![normal](https://i.imgur.com/NL4oUN4.png "normal")]
