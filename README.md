@@ -29,9 +29,9 @@
 - La línea 57 es el vec4 del color del relleno del texto del nivel de XP `vertexColor = vec4(0.9058, 0.2137, 0.3117, 1);`
  
  Para modificar los colores primero deberémos de tomar en cuenta que representa este vec4:
-- El primer valor representa el valor del 0 al 1 del canal ROJO, es decir, cuanto rojo tiene el color en el componente RGBA.
-- El segundo valor representa el valor del 0 al 1 del canal VERDE, es decir, cuanto verde tiene el color en el componente RGBA.
-- El tercer valor representa el valor del 0 al 1 del canal AZUL, es decir, cuanto azul tiene el color en el componente RGBA.
+- El primer valor representa el valor del 0 al 1 del canal ROJO, es decir, cuanto rojo tiene el color en el componente RGB.
+- El segundo valor representa el valor del 0 al 1 del canal VERDE, es decir, cuanto verde tiene el color en el componente RGB.
+- El tercer valor representa el valor del 0 al 1 del canal AZUL, es decir, cuanto azul tiene el color en el componente RGB.
 - El cuarto valor representa el valor del 0 al 1 del canal ALPHA, es decir, que tan transparente será el color.
 
 
