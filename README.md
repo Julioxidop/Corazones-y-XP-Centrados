@@ -57,3 +57,5 @@ Y listo, ahora si basta con reemplazar estos valores en el vec4 de la línea 57:
 ![vec4mod](https://i.imgur.com/Pq2OvsS.png)
 
 ### Textura de los corazones
+
+---- En construcción ----
