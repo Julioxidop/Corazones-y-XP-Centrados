@@ -12,3 +12,12 @@
  
  
  ![normal](https://i.imgur.com/NL4oUN4.png "normal")
+ 
+ ### Variante roja
+ Lo puedes descargar de [***aquí***](https://github.com/Julioxidop/Corazones-y-XP-Centrados/releases/tag/roja)
+ 
+ 
+ ![normal](https://i.imgur.com/ASaZLi1.png "normal")
+
+
+##Personalización
