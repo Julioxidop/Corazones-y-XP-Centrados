@@ -1,6 +1,7 @@
 # Corazones y XP Centrados
  Resourcepacks preparados para simplemente descargarlos e instalarlos con shaders vanilla (NO REQUIERE OPTIFINE) que centran los corazones y el nivel de xp.
 
+## Tabla de contenidos
 - [Corazones y XP Centrados](#corazones-y-xp-centrados)
   * [NO AUTORÍA](#no-autor-a)
   * [Descargar](#descargar)
@@ -10,8 +11,6 @@
   * [Personalización](#personalizaci-n)
     + [Color de XP](#color-de-xp)
     + [Textura de los corazones](#textura-de-los-corazones)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## NO AUTORÍA
  Estos shaders **NO fueron creados por mi**, son shaders extraidos de [este repositorio](https://github.com/McTsts/mc-core-shaders), yo solo los modifiqué y preparé ya para su uso directo.
