@@ -7,8 +7,8 @@
   * [Descargar](#descargar)
     + [Variante normal](#variante-normal)
     + [Variante roja](#variante-roja)
-  * [Instalación](#instalaci-n)
-  * [Personalización](#personalizaci-n)
+  * [Instalación](#instalación)
+  * [Personalización](#personalización)
     + [Color de XP](#color-de-xp)
     + [Textura de los corazones](#textura-de-los-corazones)
 
