@@ -63,7 +63,7 @@ Tercer valor (azul): 39 / 255 = 0.1529
 ```
 Y para el cuarto valor por lo general no necesitamos hacer calculos, solo saber que 0 es totalmente transparente e 1 es sin transparencia, ya podemos nosotros jugar con este valor. En este ejemplo yo lo voy a dejar en 1.0
 
-Y listo, ahora si basta con reemplazar estos valores en el vec4 de la línea 57:
+Y listo, ahora si basta con reemplazar estos valores en el vec4 de la línea 57 (O en la 55 si estamos modificando el borde):
 
 ![vec4mod](https://i.imgur.com/Pq2OvsS.png)
 
