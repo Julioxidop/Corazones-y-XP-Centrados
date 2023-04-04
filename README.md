@@ -1,6 +1,12 @@
 # Corazones y XP Centrados
  Resourcepacks preparados para simplemente descargarlos e instalarlos con shaders vanilla (NO REQUIERE OPTIFINE) que centran los corazones y el nivel de xp.
- 
+
+
+**Table of Contents**
+
+[TOC]
+
+
 ## NO AUTORÍA
  Estos shaders **NO fueron creados por mi**, son shaders extraidos de [este repositorio](https://github.com/McTsts/mc-core-shaders), yo solo los modifiqué y preparé ya para su uso directo.
  
