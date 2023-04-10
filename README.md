@@ -20,7 +20,7 @@
 
 ### Variante normal
 
- #### Versiones anterior a la 1.19.4
+ #### Versiones anteriores a la 1.19.4
  Lo puedes descargar de [***aquí***](https://github.com/Julioxidop/Corazones-y-XP-Centrados/releases/tag/normal)
  
  #### Versión 1.19.4
