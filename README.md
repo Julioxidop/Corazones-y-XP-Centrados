@@ -19,13 +19,24 @@
  Hay 2 variantes listas, la variante con el color de xp por defecto, y el otro es modificado con un color rojo.
 
 ### Variante normal
+
+ #### Versiones anterior a la 1.19.4
  Lo puedes descargar de [***aquí***](https://github.com/Julioxidop/Corazones-y-XP-Centrados/releases/tag/normal)
+ 
+ #### Versión 1.19.4
+  Lo puedes descargar de [***aquí***](https://github.com/Julioxidop/Corazones-y-XP-Centrados/releases/tag/normal1.19.4)
  
  
  ![normal](https://i.imgur.com/NL4oUN4.png "normal")
  
  ### Variante roja
+ 
+ #### Versiones anteriores a la 1.19.4
  Lo puedes descargar de [***aquí***](https://github.com/Julioxidop/Corazones-y-XP-Centrados/releases/tag/roja)
+ 
+ #### Versión 1.19.4
+  Lo puedes descargar de [***aquí***](https://github.com/Julioxidop/Corazones-y-XP-Centrados/releases/tag/roja1.19.4)
+
  
  
  ![normal](https://i.imgur.com/ASaZLi1.png "normal")
